@@ -1,3 +1,5 @@
+Travel Pose AI App
+
 # Privacy Policy of Travel Pose AI App
 
 We value your privacy and are committed to protecting your personal information. This policy explains how we collect, use, and safeguard your data.
