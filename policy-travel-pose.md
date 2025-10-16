@@ -1,22 +1,72 @@
-Travel Pose AI App
+# Privacy Policy for Travel Pose AI
 
-# Privacy Policy of Travel Pose AI App
+**Effective Date:** October 16, 2025
 
-We value your privacy and are committed to protecting your personal information. This policy explains how we collect, use, and safeguard your data.
+## 1. Introduction
 
-## Information Collection
+Welcome to Travel Pose AI. This Privacy Policy explains how **ELApps** ("we," "us," or "our") collects, uses, and protects your information when you use our mobile application, **Travel Pose AI** (the "App").
 
-We may collect basic information such as your name and email address when you interact with our app.
+Your privacy is critically important to us. Our goal is to be transparent about the data we collect and how it is used. By using our App, you agree to the collection and use of information in accordance with this policy.
 
-## Use of Information
+---
 
-Your information is used solely to improve our services and communicate with you.
+## 2. Information We Collect
 
-## Data Protection
+We collect minimal information necessary to provide and improve our service. The types of information we may collect are:
 
-We implement security measures to protect your data from unauthorized access.
+### a) Information You Provide Voluntarily
+*   **Contact Information:** If you contact us for support via email, we will collect your name, email address, and any other information you choose to provide in your message to assist you.
 
-## Contact Us
+### b) Automatically Collected Information (Usage Data)
+*   **Analytics Data:** We may collect anonymous data about your interaction with the App, such as session duration, features used, and crash reports. This data is not linked to your personal identity and is used solely to improve the App's performance and user experience.
+*   **Device Information:** We may collect non-personal information about your device, such as the device model, operating system version, and unique device identifiers for troubleshooting and analytics purposes.
 
-If you have any questions about this privacy policy, please contact us at ELApps [cihatcelk@gmail.com].
+### c) App Permissions
+*   **Camera and Photo Library Access:** The core functionality of Travel Pose AI may require access to your device's camera or photo library. We only access your photos or camera when you explicitly use a feature that requires it. **We do not upload your photos or videos to our servers.** All processing is done on your device unless otherwise stated for a specific feature.
 
+---
+
+## 3. How We Use Your Information
+
+We use the information we collect for the following purposes:
+
+*   **To Provide and Maintain the App:** To deliver the core features and functionality of Travel Pose AI.
+*   **To Improve the App:** To understand how our users interact with the App, identify bugs, and develop new features.
+*   **To Provide Customer Support:** To respond to your questions, requests, and feedback.
+*   **To Manage Subscriptions:** If you purchase a subscription, we use a third-party service provider (like RevenueCat, which works with the App Store and Google Play Store) to manage your subscription status. We do not collect or store your payment information.
+
+---
+
+## 4. Data Sharing and Disclosure
+
+We do not sell, trade, or rent your personal information to third parties. We may share information only in the following limited circumstances:
+
+*   **With Service Providers:** We may use third-party companies for services like analytics (e.g., Google Firebase) or subscription management (e.g., RevenueCat). These companies are obligated to protect your information and are only permitted to use it to provide services to us.
+*   **For Legal Reasons:** We may disclose your information if required to do so by law or in response to valid requests by public authorities (e.g., a court or a government agency).
+
+---
+
+## 5. Data Security
+
+We are committed to protecting your information. We implement reasonable administrative and technical safeguards to protect your data from loss, theft, misuse, and unauthorized access. However, please be aware that no method of transmission over the internet or method of electronic storage is 100% secure.
+
+---
+
+## 6. Children's Privacy
+
+Our App is not intended for use by children under the age of 13. We do not knowingly collect personally identifiable information from children under 13. If we become aware that we have collected personal data from a child under 13, we will take steps to delete that information from our servers.
+
+---
+
+## 7. Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes.
+
+---
+
+## 8. Contact Us
+
+If you have any questions or concerns about this Privacy Policy, please do not hesitate to contact us.
+
+*   **Developer:** ELApps
+*
