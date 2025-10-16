@@ -22,7 +22,7 @@ We collect minimal information necessary to provide and improve our service. The
 *   **Device Information:** We may collect non-personal information about your device, such as the device model, operating system version, and unique device identifiers for troubleshooting and analytics purposes.
 
 ### c) App Permissions
-*   **Camera and Photo Library Access:** The core functionality of Travel Pose AI may require access to your device's camera or photo library. We only access your photos or camera when you explicitly use a feature that requires it. **We do not upload your photos or videos to our servers.** All processing is done on your device unless otherwise stated for a specific feature.
+*   **Camera and Photo Library Access:** The core functionality of Travel Pose AI may require access to your device's camera or photo library. We only access your photos or camera when you explicitly use a feature that requires it.
 
 ---
 
