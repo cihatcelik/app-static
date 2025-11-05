@@ -64,8 +64,11 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 
 ---
 
-## 8. Face Data and Image Processing
-Our app may process photos that include faces to generate AI-edited images. We do not collect, store, or share biometric data. Uploaded photos are used only to detect facial landmarks and create the requested image. All photos and related data are automatically deleted within 24 hours after processing.
+## 8.1 Face Data and Image Processing
+Our app may process photos containing faces to generate AI-edited travel images. We do not collect, store, or share biometric data. Uploaded photos are used only to detect facial landmarks and create the requested image. All photos and related data are automatically deleted within 24 hours after processing.
+
+## 8.2 Third-Party Processing (Replicate.com)
+Our app uses Replicate.com, a third-party AI model hosting platform, to generate AI-based travel photos. When you upload a photo, it is securely transmitted to Replicate’s servers to perform the image generation process. The data is processed temporarily and automatically deleted after the result is generated. We do not share this data with any other parties, and Replicate does not use it for model training or analytics.
 
 ---
 
