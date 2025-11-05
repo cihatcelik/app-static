@@ -64,7 +64,12 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 
 ---
 
-## 8. Contact Us
+## 8. Face Data and Image Processing
+Our app may process photos that include faces to generate AI-edited images. We do not collect, store, or share biometric data. Uploaded photos are used only to detect facial landmarks and create the requested image. All photos and related data are automatically deleted within 24 hours after processing.
+
+---
+
+## 9. Contact Us
 
 If you have any questions or concerns about this Privacy Policy, please do not hesitate to contact us.
 
